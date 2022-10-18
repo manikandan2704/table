@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+}
+
+.header_left{
+    height: auto;
+}
+.header_left span img{
+    height: 20px;
+}
+
+.header_left img{
+    height: 50px;
+}
+.header_search h3{
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+
+.header_middle{
+    height: auto;
+    margin: 0 10px;
+
+}
+.header_middle img{
+   height: 50px;  
+   margin: 0 26px;
+   color: skyblue;
+}
+.header_middle span img{
+    height: 40px;
+    margin-bottom: 8px;
+}
+
+
+.header_right{
+    display: flex;
+    height: auto;
+}
+.header_right img{
+     height: 40px;
+     margin: 0 30px;
+}
